@@ -21,7 +21,7 @@ This is one of my first projects. I realised it to learn the basics of Java.
 ## Installation
 Clone and change directory:
 ```
-git clone https://github.com/tassoneroberto/battleship.git
+git clone https://github.com/AntoRack/battleship.git
 cd battleship
 
 ```
