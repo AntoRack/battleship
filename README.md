@@ -10,18 +10,18 @@ This is one of my first projects. I realised it to learn the basics of Java.
 
 ## Game Screens
 
-![](https://raw.githubusercontent.com/tassoneroberto/battleship/master/screenshots/screenshot1.png)
+![](https://raw.githubusercontent.com/racheleantonio/battleship/master/screenshots/screenshot1.png)
 
 
-![](https://raw.githubusercontent.com/tassoneroberto/battleship/master/screenshots/screenshot2.png)
+![](https://raw.githubusercontent.com/racheleantonio/battleship/master/screenshots/screenshot2.png)
 
 
-![](https://raw.githubusercontent.com/tassoneroberto/battleship/master/screenshots/screenshot3.png)
+![](https://raw.githubusercontent.com/racheleantonio/battleship/master/screenshots/screenshot3.png)
 
 ## Installation
 Clone and change directory:
 ```
-git clone https://github.com/AntoRack/battleship.git
+git clone https://github.com/racheleantonio/battleship.git
 cd battleship
 
 ```
